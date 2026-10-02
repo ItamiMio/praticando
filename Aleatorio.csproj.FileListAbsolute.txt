@@ -1,0 +1,14 @@
+C:\Users\leand\Documents\Itami Estudos\Praticando\Aleatorio\bin\Debug\net10.0\Aleatorio.exe
+C:\Users\leand\Documents\Itami Estudos\Praticando\Aleatorio\bin\Debug\net10.0\Aleatorio.deps.json
+C:\Users\leand\Documents\Itami Estudos\Praticando\Aleatorio\bin\Debug\net10.0\Aleatorio.runtimeconfig.json
+C:\Users\leand\Documents\Itami Estudos\Praticando\Aleatorio\bin\Debug\net10.0\Aleatorio.dll
+C:\Users\leand\Documents\Itami Estudos\Praticando\Aleatorio\bin\Debug\net10.0\Aleatorio.pdb
+C:\Users\leand\Documents\Itami Estudos\Praticando\Aleatorio\obj\Debug\net10.0\Aleatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Documents\Itami Estudos\Praticando\Aleatorio\obj\Debug\net10.0\Aleatorio.AssemblyInfoInputs.cache
+C:\Users\leand\Documents\Itami Estudos\Praticando\Aleatorio\obj\Debug\net10.0\Aleatorio.AssemblyInfo.cs
+C:\Users\leand\Documents\Itami Estudos\Praticando\Aleatorio\obj\Debug\net10.0\Aleatorio.csproj.CoreCompileInputs.cache
+C:\Users\leand\Documents\Itami Estudos\Praticando\Aleatorio\obj\Debug\net10.0\Aleatorio.dll
+C:\Users\leand\Documents\Itami Estudos\Praticando\Aleatorio\obj\Debug\net10.0\refint\Aleatorio.dll
+C:\Users\leand\Documents\Itami Estudos\Praticando\Aleatorio\obj\Debug\net10.0\Aleatorio.pdb
+C:\Users\leand\Documents\Itami Estudos\Praticando\Aleatorio\obj\Debug\net10.0\Aleatorio.genruntimeconfig.cache
+C:\Users\leand\Documents\Itami Estudos\Praticando\Aleatorio\obj\Debug\net10.0\ref\Aleatorio.dll

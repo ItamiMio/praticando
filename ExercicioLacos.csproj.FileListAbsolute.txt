@@ -1,0 +1,14 @@
+C:\Users\leand\Documents\Itami Estudos\Praticando\ExercicioLacos\bin\Debug\net10.0\ExercicioLacos.exe
+C:\Users\leand\Documents\Itami Estudos\Praticando\ExercicioLacos\bin\Debug\net10.0\ExercicioLacos.deps.json
+C:\Users\leand\Documents\Itami Estudos\Praticando\ExercicioLacos\bin\Debug\net10.0\ExercicioLacos.runtimeconfig.json
+C:\Users\leand\Documents\Itami Estudos\Praticando\ExercicioLacos\bin\Debug\net10.0\ExercicioLacos.dll
+C:\Users\leand\Documents\Itami Estudos\Praticando\ExercicioLacos\bin\Debug\net10.0\ExercicioLacos.pdb
+C:\Users\leand\Documents\Itami Estudos\Praticando\ExercicioLacos\obj\Debug\net10.0\ExercicioLacos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Documents\Itami Estudos\Praticando\ExercicioLacos\obj\Debug\net10.0\ExercicioLacos.AssemblyInfoInputs.cache
+C:\Users\leand\Documents\Itami Estudos\Praticando\ExercicioLacos\obj\Debug\net10.0\ExercicioLacos.AssemblyInfo.cs
+C:\Users\leand\Documents\Itami Estudos\Praticando\ExercicioLacos\obj\Debug\net10.0\ExercicioLacos.csproj.CoreCompileInputs.cache
+C:\Users\leand\Documents\Itami Estudos\Praticando\ExercicioLacos\obj\Debug\net10.0\ExercicioLacos.dll
+C:\Users\leand\Documents\Itami Estudos\Praticando\ExercicioLacos\obj\Debug\net10.0\refint\ExercicioLacos.dll
+C:\Users\leand\Documents\Itami Estudos\Praticando\ExercicioLacos\obj\Debug\net10.0\ExercicioLacos.pdb
+C:\Users\leand\Documents\Itami Estudos\Praticando\ExercicioLacos\obj\Debug\net10.0\ExercicioLacos.genruntimeconfig.cache
+C:\Users\leand\Documents\Itami Estudos\Praticando\ExercicioLacos\obj\Debug\net10.0\ref\ExercicioLacos.dll
